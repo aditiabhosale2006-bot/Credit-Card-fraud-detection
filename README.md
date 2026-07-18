@@ -73,3 +73,5 @@ Aditi Bhosale
 
 Machine Learning Enthusiast | AI/ML Learner
 
+Click here to see the live demo:
+🔗 Live app: https://credit-card-fraud-detection-punpnbaptwdgkkwpada2rz.streamlit.app
